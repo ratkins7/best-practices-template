@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 # Created by https://www.gitignore.io/api/python
 # Edit at https://www.gitignore.io/?templates=python
 
 ### Python ###
+=======
+>>>>>>> 5e2d187236bb9cad373c80ede61b1ccd0118eb3f
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -24,8 +27,11 @@ parts/
 sdist/
 var/
 wheels/
+<<<<<<< HEAD
 pip-wheel-metadata/
 share/python-wheels/
+=======
+>>>>>>> 5e2d187236bb9cad373c80ede61b1ccd0118eb3f
 *.egg-info/
 .installed.cfg
 *.egg
@@ -44,7 +50,10 @@ pip-delete-this-directory.txt
 # Unit test / coverage reports
 htmlcov/
 .tox/
+<<<<<<< HEAD
 .nox/
+=======
+>>>>>>> 5e2d187236bb9cad373c80ede61b1ccd0118eb3f
 .coverage
 .coverage.*
 .cache
@@ -62,7 +71,10 @@ coverage.xml
 *.log
 local_settings.py
 db.sqlite3
+<<<<<<< HEAD
 db.sqlite3-journal
+=======
+>>>>>>> 5e2d187236bb9cad373c80ede61b1ccd0118eb3f
 
 # Flask stuff:
 instance/
@@ -80,6 +92,7 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+<<<<<<< HEAD
 # IPython
 profile_default/
 ipython_config.py
@@ -94,6 +107,11 @@ ipython_config.py
 #   install all needed dependencies.
 #Pipfile.lock
 
+=======
+# pyenv
+.python-version
+
+>>>>>>> 5e2d187236bb9cad373c80ede61b1ccd0118eb3f
 # celery beat schedule file
 celerybeat-schedule
 
@@ -121,6 +139,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+<<<<<<< HEAD
 .dmypy.json
 dmypy.json
 
@@ -128,3 +147,5 @@ dmypy.json
 .pyre/
 
 # End of https://www.gitignore.io/api/python
+=======
+>>>>>>> 5e2d187236bb9cad373c80ede61b1ccd0118eb3f
